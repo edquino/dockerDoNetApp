@@ -1,0 +1,7 @@
+C:\Users\Edqui\source\repos\dockerDoNetApp\dockerDoNetApp\app-deploy\dockerDoNetApp.exe
+C:\Users\Edqui\source\repos\dockerDoNetApp\dockerDoNetApp\app-deploy\appsettings.Development.json
+C:\Users\Edqui\source\repos\dockerDoNetApp\dockerDoNetApp\app-deploy\appsettings.json
+C:\Users\Edqui\source\repos\dockerDoNetApp\dockerDoNetApp\app-deploy\dockerDoNetApp.dll
+C:\Users\Edqui\source\repos\dockerDoNetApp\dockerDoNetApp\app-deploy\dockerDoNetApp.deps.json
+C:\Users\Edqui\source\repos\dockerDoNetApp\dockerDoNetApp\app-deploy\dockerDoNetApp.runtimeconfig.json
+C:\Users\Edqui\source\repos\dockerDoNetApp\dockerDoNetApp\app-deploy\dockerDoNetApp.pdb
